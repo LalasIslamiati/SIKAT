@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269649081716",
+    "firebase_url": "https://sikat-subang.firebaseio.com",
+    "project_id": "sikat-subang",
+    "storage_bucket": "sikat-subang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269649081716:android:4a027f7535c6c691",
+        "android_client_info": {
+          "package_name": "com.example.lalas.sikat_subang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269649081716-eb0qm4ar39f04qlljmsmen28046s2vf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lalas.sikat_subang",
+            "certificate_hash": "84954c6eb0e5ac6c256f7485c1904028203b7e43"
+          }
+        },
+        {
+          "client_id": "269649081716-knhb35vsa3b3fniii8hc22sthpvb66g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlS-LCcx34AJz_LhtO3updVm1951PNI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269649081716-knhb35vsa3b3fniii8hc22sthpvb66g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
